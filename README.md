@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate frontend developer from Afghanistan</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
 - 🔭 I’m working on [API - React](https://github.com/ABDULLAHRH1/React-Weather2)
 
