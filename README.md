@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABDULLAHRH1](https://github.com/ABDULLAHRH1)
 
-- 💬 Ask me about **abdullahrh64@qmail.com**
-
 - 📫 How to reach me **abdullahrh64@qmail.com**
 
 - 📄 Know about my experiences [https://abdullahrh1.github.io/React_Tailwind/](https://abdullahrh1.github.io/React_Tailwind/)
