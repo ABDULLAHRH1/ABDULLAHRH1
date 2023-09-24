@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YourAvatarID" alt="Avatar" width="150" height="150" style="border-radius: 50%;" />
+  <img src="[https://avatars.githubusercontent.com/u/YourAvatarID](https://u-static.fotor.com/images/text-to-image/result/PRO-5fefb1462b49488c9aa7769be6ef825d.jpg)" alt="Avatar" width="150" height="150" style="border-radius: 50%;" />
   <h1 style="font-size: 36px; margin-top: 20px;">Hi 👋, I'm Abdullah</h1>
   <h3 style="font-size: 24px; color: #6B7280;">Passionate Frontend Developer</h3>
 </div>
