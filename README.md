@@ -1,9 +1,9 @@
 <!-- Avatar and Introduction -->
-<div align="center" style="background-color: #f3f4f6; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-  <img src="https://u-static.fotor.com/images/text-to-image/result/PRO-5fefb1462b49488c9aa7769be6ef825d.jpg" alt="Avatar" width="150" height="150" style="border-radius: 50%; border: 5px solid #61dafb; box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);" />
-  <h1 align="center" style="font-size: 36px; margin-top: 20px; color: #333; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">Hi 👋, I'm Abdullah</h1>
-  <h3 align="center" style="font-size: 24px; color: #6B7280; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">A passionate frontend developer</h3>
-</div>
+<p align="center">
+  <img src="https://u-static.fotor.com/images/text-to-image/result/PRO-5fefb1462b49488c9aa7769be6ef825d.jpg" alt="Avatar" width="150" height="150" style="border-radius: 50%; border: 5px solid #61dafb; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
+</p>
+<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 
 
