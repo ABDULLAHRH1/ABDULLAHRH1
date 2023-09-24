@@ -45,8 +45,9 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60" style="margin: 0 10px;" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" style="margin: 0 10px;" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60" style="margin: 0 10px;" />
-    <img src="https://img.icons8.com/color/80/000000/vite.png" alt="Vite" />
-  <img src="https://img.icons8.com/color/80/000000/material-ui.png" alt="Material-UI" />
+  <img src="https://img.icons8.com/color/80/000000/vite.png" alt="Vite" width="60" height="60" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/80/000000/material-ui.png" alt="Material-UI" width="60" height="60" style="margin: 0 10px;" />
 </p>
+
 
 
