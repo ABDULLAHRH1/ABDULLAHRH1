@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ABDULLAHRH1/ABDULLAHRH1/assets/119334301/2a12eec6-7547-4a05-8c7e-4e25784c402b" alt="Avatar" width="70%">
+  <img src="https://github.com/ABDULLAHRH1/ABDULLAHRH1/assets/119334301/2a12eec6-7547-4a05-8c7e-4e25784c402b" alt="Avatar" width="65%">
 </div>
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate frontend developer</h3>
