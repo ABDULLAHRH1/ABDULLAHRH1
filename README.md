@@ -1,7 +1,4 @@
 ![image](https://github.com/ABDULLAHRH1/ABDULLAHRH1/assets/119334301/2a12eec6-7547-4a05-8c7e-4e25784c402b)<!-- Avatar and Introduction -->
-<p align="center">
-  <img src="https://u-static.fotor.com/images/text-to-image/result/PRO-5fefb1462b49488c9aa7769be6ef825d.jpg" width="150" height="150" style="border-radius: 50%; border: 5px solid #61dafb; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);" />
-</p>
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
